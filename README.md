@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](about me.png)
+![About me](about me.png)
 
 <!--
 **mohamedghry/mohamedghry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
