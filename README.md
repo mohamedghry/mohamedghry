@@ -1,5 +1,4 @@
 ### Hi there 👋
-![about me](https://user-images.githubusercontent.com/70846567/130075773-aa23826b-b6ea-4b9d-b69e-a354b06c25c4.png)
 
 <!--
 **mohamedghry/mohamedghry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
